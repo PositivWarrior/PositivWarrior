@@ -36,10 +36,10 @@ A music streaming app built using React and Next.js with a retro-styled design i
 #### [📝 MarBlogger](https://github.com/PositivWarrior/marblogger)
 A blogging platform built on the MERN stack with Google Authentication (Firebase), Redux, and protected admin routes using JWT. Features full CRUD functionality for posts and categories.
 
-#### [📸 Spotify Clone](https://github.com/PositivWarrior/dsphoto)
+#### [📸 Photo DS](https://github.com/PositivWarrior/dsphoto)
 A photographer portfolio site on the MERN stack with Admin Panel. Using AWS S3 for photo storage and DnD features for custom photo placement.
 
-#### [🚛 Spotify Clone](https://github.com/PositivWarrior/mlvri)
+#### [🚛 ML Vri](https://github.com/PositivWarrior/mlvri)
 A simple moving/renovation company website on the MERN stack. Using Framer-motion tool to make it more alive. 
 
 ---
