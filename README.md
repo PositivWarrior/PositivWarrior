@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I am a passionate **Back-End Developer** with a strong interest in building scalable web applications and exploring new technologies. With over 2 years of experience in web development, I specialize in creating robust, efficient, and secure server-side solutions.
+I am a passionate **Full-Stack/Back-End Developer** with a strong interest in building scalable web applications and exploring new technologies. With over 2 years of experience in web development, I specialize in creating robust, efficient, and secure server-side solutions.
 
 - 🌟 I enjoy solving complex problems and writing clean, efficient code.
 - 📚 Currently learning: **React, Python**, and **Swift**.
