@@ -46,7 +46,7 @@ A simple moving/renovation company website on the MERN stack. Using Framer-motio
 
 ### 🌟 Let's Connect!
 
-- 🌐 [My Portfolio] (https://positivwarrior.github.io/Portfolio/) 
+- 🌐 [My Portfolio] (https://kacpermargol.eu) 
 - 📧 Email: [kacpermargol@gmail.com](mailto:kacpermargol@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/kacper-margol-545493195/)
 
