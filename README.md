@@ -12,10 +12,10 @@ I am a passionate **Full-Stack/Back-End Developer** with a strong interest in bu
 
 ### 💻 Skills & Technologies
 
-- **Languages:** JavaScript, (Python, Swift in learning)  
+- **Languages:** JavaScript, (PHP, Python, Swift in learning)  
 - **Back-End:** Node.js, Express.js, REST APIs,  
 - **Databases:** MongoDB, MySQL  
-- **Front-End:** HTML, CSS, jQuery, React  
+- **Front-End:** HTML, CSS, jQuery, React
 - **Tools & Platforms:** Docker, Firebase, Git, Next 
 
 ---
