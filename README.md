@@ -29,8 +29,16 @@ I am a passionate **Full-Stack/Back-End Developer** with a strong interest in bu
 ---
 
 ### 🔥 Featured Projects
+#### [🚚 GawlakTrans - Transport Services Website](https://github.com/PositivWarrior/gawlaktrans)
+A professional website for a transport company specializing in Poland-Scandinavia routes. Built with React, TypeScript, Vite, Tailwind CSS, and shadcn/ui. Features responsive design, customer reviews, contact forms, and interactive UI elements.
 
-#### [🎧 Spotify Clone](https://github.com/PositivWarrior/olefy)
+#### [📝 CV Mentor - AI-Powered Resume Builder](https://github.com/PositivWarrior/cv_mentor)
+An intelligent resume creation platform built with Next.js that helps users create professional resumes with AI assistance. Features customizable templates, user authentication via Clerk, PostgreSQL database with Prisma ORM, OpenAI integration, and Stripe payment processing.
+
+#### [💰 LukMeg Verdivurdering - Value Assessment Tool](https://github.com/PositivWarrior/mkdoc)
+A web application for generating value assessment PDFs and sending them via email. Built with React, Vite, and Tailwind CSS. Utilizes Firebase Storage for document management and integrates with EmailJS for communication.
+
+#### [🎧 Ampify - Spotify Clone](https://github.com/PositivWarrior/ampify)
 A music streaming app built using React and Next.js with a retro-styled design inspired by Marshall amps and speakers. Currently integrating the Spotify API for dynamic content and exploring server-side music file hosting.
 
 #### [📝 MarBlogger](https://github.com/PositivWarrior/marblogger)
@@ -41,7 +49,6 @@ A photographer portfolio site on the MERN stack with Admin Panel. Using AWS S3 f
 
 #### [🚛 ML Vri](https://github.com/PositivWarrior/mlvri)
 A simple moving/renovation company website on the MERN stack. Using Framer-motion tool to make it more alive. 
-
 ---
 
 ### 🌟 Let's Connect!
