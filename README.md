@@ -48,7 +48,8 @@ A blogging platform built on the MERN stack with Google Authentication (Firebase
 A photographer portfolio site on the MERN stack with Admin Panel. Using AWS S3 for photo storage and DnD features for custom photo placement.
 
 #### [🚛 ML Vri](https://github.com/PositivWarrior/mlvri)
-A simple moving/renovation company website on the MERN stack. Using Framer-motion tool to make it more alive. 
+A simple moving/renovation company website on MERN stack. Using Framer-motion tool to make it more alive.
+
 ---
 
 ### 🌟 Let's Connect!
